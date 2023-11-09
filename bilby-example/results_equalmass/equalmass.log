@@ -1,0 +1,570 @@
+17:34 INFO    : Waveform generator initiated with
+  frequency_domain_source_model: bilby.gw.source.lal_binary_black_hole
+  time_domain_source_model: None
+  parameter_conversion: bilby.gw.conversion.convert_to_lal_binary_black_hole_parameters
+17:34 INFO    : Injected signal in CE40A:
+17:34 INFO    :   optimal SNR = 110.14
+17:34 INFO    :   matched filter SNR = 109.83+0.39j
+17:34 INFO    :   mass_1 = 900.0
+17:34 INFO    :   mass_2 = 897.0
+17:34 INFO    :   a_1 = 0.1
+17:34 INFO    :   a_2 = 0.1
+17:34 INFO    :   tilt_1 = 0.12189169411706105
+17:34 INFO    :   tilt_2 = -0.8604349365388491
+17:34 INFO    :   phi_12 = 0.12148163020469296
+17:34 INFO    :   phi_jl = 0.09379078248080266
+17:34 INFO    :   luminosity_distance = 15924.566651659155
+17:34 INFO    :   theta_jn = 1.4489046326778354
+17:34 INFO    :   psi = 0.09379078248080266
+17:34 INFO    :   ra = 0.7598687643658464
+17:34 INFO    :   dec = 1.2917959009715565
+17:34 INFO    :   phase = 0.0
+17:34 INFO    :   geocent_time = 0.0
+17:34 INFO    : Injected signal in CE20B:
+17:34 INFO    :   optimal SNR = 73.64
+17:34 INFO    :   matched filter SNR = 70.71+1.53j
+17:34 INFO    :   mass_1 = 900.0
+17:34 INFO    :   mass_2 = 897.0
+17:34 INFO    :   a_1 = 0.1
+17:34 INFO    :   a_2 = 0.1
+17:34 INFO    :   tilt_1 = 0.12189169411706105
+17:34 INFO    :   tilt_2 = -0.8604349365388491
+17:34 INFO    :   phi_12 = 0.12148163020469296
+17:34 INFO    :   phi_jl = 0.09379078248080266
+17:34 INFO    :   luminosity_distance = 15924.566651659155
+17:34 INFO    :   theta_jn = 1.4489046326778354
+17:34 INFO    :   psi = 0.09379078248080266
+17:34 INFO    :   ra = 0.7598687643658464
+17:34 INFO    :   dec = 1.2917959009715565
+17:34 INFO    :   phase = 0.0
+17:34 INFO    :   geocent_time = 0.0
+17:34 INFO    : Injected signal in ET1:
+17:34 INFO    :   optimal SNR = 89.66
+17:34 INFO    :   matched filter SNR = 89.60+1.88j
+17:34 INFO    :   mass_1 = 900.0
+17:34 INFO    :   mass_2 = 897.0
+17:34 INFO    :   a_1 = 0.1
+17:34 INFO    :   a_2 = 0.1
+17:34 INFO    :   tilt_1 = 0.12189169411706105
+17:34 INFO    :   tilt_2 = -0.8604349365388491
+17:34 INFO    :   phi_12 = 0.12148163020469296
+17:34 INFO    :   phi_jl = 0.09379078248080266
+17:34 INFO    :   luminosity_distance = 15924.566651659155
+17:34 INFO    :   theta_jn = 1.4489046326778354
+17:34 INFO    :   psi = 0.09379078248080266
+17:34 INFO    :   ra = 0.7598687643658464
+17:34 INFO    :   dec = 1.2917959009715565
+17:34 INFO    :   phase = 0.0
+17:34 INFO    :   geocent_time = 0.0
+17:34 INFO    : Injected signal in ET2:
+17:34 INFO    :   optimal SNR = 53.61
+17:34 INFO    :   matched filter SNR = 53.03-0.55j
+17:34 INFO    :   mass_1 = 900.0
+17:34 INFO    :   mass_2 = 897.0
+17:34 INFO    :   a_1 = 0.1
+17:34 INFO    :   a_2 = 0.1
+17:34 INFO    :   tilt_1 = 0.12189169411706105
+17:34 INFO    :   tilt_2 = -0.8604349365388491
+17:34 INFO    :   phi_12 = 0.12148163020469296
+17:34 INFO    :   phi_jl = 0.09379078248080266
+17:34 INFO    :   luminosity_distance = 15924.566651659155
+17:34 INFO    :   theta_jn = 1.4489046326778354
+17:34 INFO    :   psi = 0.09379078248080266
+17:34 INFO    :   ra = 0.7598687643658464
+17:34 INFO    :   dec = 1.2917959009715565
+17:34 INFO    :   phase = 0.0
+17:34 INFO    :   geocent_time = 0.0
+17:34 INFO    : Injected signal in ET3:
+17:34 INFO    :   optimal SNR = 126.99
+17:34 INFO    :   matched filter SNR = 127.36-2.51j
+17:34 INFO    :   mass_1 = 900.0
+17:34 INFO    :   mass_2 = 897.0
+17:34 INFO    :   a_1 = 0.1
+17:34 INFO    :   a_2 = 0.1
+17:34 INFO    :   tilt_1 = 0.12189169411706105
+17:34 INFO    :   tilt_2 = -0.8604349365388491
+17:34 INFO    :   phi_12 = 0.12148163020469296
+17:34 INFO    :   phi_jl = 0.09379078248080266
+17:34 INFO    :   luminosity_distance = 15924.566651659155
+17:34 INFO    :   theta_jn = 1.4489046326778354
+17:34 INFO    :   psi = 0.09379078248080266
+17:34 INFO    :   ra = 0.7598687643658464
+17:34 INFO    :   dec = 1.2917959009715565
+17:34 INFO    :   phase = 0.0
+17:34 INFO    :   geocent_time = 0.0
+17:34 INFO    : No prior given, using default BBH priors in /home/lreali1/.conda/envs/bilby/lib/python3.9/site-packages/bilby/gw/prior_files/precessing_spins_bbh.prior.
+17:34 INFO    : Running for label 'equalmass', output will be saved to 'results_equalmass'
+17:34 INFO    : Using lal version 7.3.1
+17:34 INFO    : Using lal git version Branch: None;Tag: lalsuite-v7.19;Id: 84d780c102cf51ea1fdf7a1cbf0a626a5eca0d0a;;Builder: Unknown User <>;Repository status: UNCLEAN: Modified working tree
+17:34 INFO    : Using lalsimulation version 5.2.1
+17:34 INFO    : Using lalsimulation git version Branch: None;Tag: lalsuite-v7.19;Id: 84d780c102cf51ea1fdf7a1cbf0a626a5eca0d0a;;Builder: Unknown User <>;Repository status: UNCLEAN: Modified working tree
+17:34 INFO    : Analysis priors:
+17:34 INFO    : mass_ratio=Uniform(minimum=0.125, maximum=1, name='mass_ratio', latex_label='$q$', unit=None, boundary=None)
+17:34 INFO    : luminosity_distance=Uniform(minimum=9000, maximum=21000, name='luminosity_distance', latex_label='$d_L$', unit=None, boundary=None)
+17:34 INFO    : dec=Cosine(minimum=-1.5707963267948966, maximum=1.5707963267948966, name='dec', latex_label='$\\mathrm{DEC}$', unit=None, boundary=None)
+17:34 INFO    : ra=Uniform(minimum=0, maximum=6.283185307179586, name='ra', latex_label='$\\mathrm{RA}$', unit=None, boundary='periodic')
+17:34 INFO    : theta_jn=Sine(minimum=0, maximum=3.141592653589793, name='theta_jn', latex_label='$\\theta_{JN}$', unit=None, boundary=None)
+17:34 INFO    : psi=Uniform(minimum=0, maximum=3.141592653589793, name='psi', latex_label='$\\psi$', unit=None, boundary='periodic')
+17:34 INFO    : phase=Uniform(minimum=0, maximum=6.283185307179586, name='phase', latex_label='$\\phi$', unit=None, boundary='periodic')
+17:34 INFO    : a_1=Uniform(minimum=0, maximum=0.99, name='a_1', latex_label='$a_1$', unit=None, boundary=None)
+17:34 INFO    : a_2=Uniform(minimum=0, maximum=0.99, name='a_2', latex_label='$a_2$', unit=None, boundary=None)
+17:34 INFO    : tilt_1=Sine(minimum=0, maximum=3.141592653589793, name='tilt_1', latex_label='$\\theta_1$', unit=None, boundary=None)
+17:34 INFO    : tilt_2=Sine(minimum=0, maximum=3.141592653589793, name='tilt_2', latex_label='$\\theta_2$', unit=None, boundary=None)
+17:34 INFO    : phi_12=Uniform(minimum=0, maximum=6.283185307179586, name='phi_12', latex_label='$\\Delta\\phi$', unit=None, boundary='periodic')
+17:34 INFO    : phi_jl=Uniform(minimum=0, maximum=6.283185307179586, name='phi_jl', latex_label='$\\phi_{JL}$', unit=None, boundary='periodic')
+17:34 INFO    : total_mass=Uniform(minimum=1257.9, maximum=2336.1, name='total_mass', latex_label='$M$', unit=None, boundary=None)
+17:34 INFO    : CE40A_time=Uniform(minimum=-0.11643955461526741, maximum=0.0835604453847326, name='CE40A_time', latex_label='$t_CE40A$', unit='$s$', boundary=None)
+17:34 INFO    : Analysis likelihood class: <class 'bilby.gw.likelihood.base.GravitationalWaveTransient'>
+17:34 INFO    : Analysis likelihood noise evidence: -52577.890128019615
+17:34 INFO    : Single likelihood evaluation took 4.699e-03 s
+17:34 INFO    : Using sampler Dynesty with kwargs {'nlive': 1000, 'bound': 'live', 'sample': 'act-walk', 'periodic': None, 'reflective': None, 'update_interval': 600, 'first_update': None, 'npdim': None, 'rstate': None, 'queue_size': 48, 'pool': None, 'use_pool': None, 'live_points': None, 'logl_args': None, 'logl_kwargs': None, 'ptform_args': None, 'ptform_kwargs': None, 'gradient': None, 'grad_args': None, 'grad_kwargs': None, 'compute_jac': False, 'enlarge': None, 'bootstrap': None, 'walks': 100, 'facc': 0.2, 'slices': None, 'fmove': 0.9, 'max_move': 100, 'update_func': None, 'ncdim': None, 'blob': False, 'save_history': False, 'history_filename': None, 'maxiter': None, 'maxcall': None, 'dlogz': 0.1, 'logl_max': inf, 'n_effective': None, 'add_live': True, 'print_progress': True, 'print_func': <bound method Dynesty._print_func of <bilby.core.sampler.dynesty.Dynesty object at 0x1553ca382ac0>>, 'save_bounds': False, 'checkpoint_file': None, 'checkpoint_every': 60, 'resume': False}
+17:34 INFO    : Checkpoint every check_point_delta_t = 600s
+17:34 INFO    : Using dynesty version 2.1.2
+17:34 INFO    : Using the bilby-implemented rwalk sampling tracking the autocorrelation function and thinning by 2 with maximum length 10000
+17:34 INFO    : Setting up multiproccesing pool with 48 processes
+17:34 INFO    : Resume file results_equalmass/equalmass_resume.pickle does not exist.
+17:34 INFO    : Generating initial points from the prior
+17:45 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+17:45 WARNING : Axis limits cannot be NaN or Inf
+17:45 WARNING : Failed to create dynesty run plot at checkpoint
+17:56 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+17:56 WARNING : Axis limits cannot be NaN or Inf
+17:56 WARNING : Failed to create dynesty run plot at checkpoint
+18:07 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:07 WARNING : Axis limits cannot be NaN or Inf
+18:07 WARNING : Failed to create dynesty run plot at checkpoint
+18:20 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:20 WARNING : Axis limits cannot be NaN or Inf
+18:20 WARNING : Failed to create dynesty run plot at checkpoint
+18:33 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:33 WARNING : Axis limits cannot be NaN or Inf
+18:33 WARNING : Failed to create dynesty run plot at checkpoint
+18:47 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:47 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+18:47 WARNING : Failed to create dynesty state plot at checkpoint
+18:47 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+18:47 WARNING : Failed to create dynesty unit state plot at checkpoint
+18:47 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+18:47 WARNING : Failed to create dynesty run plot at checkpoint
+19:00 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:00 WARNING : Axis limits cannot be NaN or Inf
+19:00 WARNING : Failed to create dynesty run plot at checkpoint
+19:13 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:14 WARNING : Axis limits cannot be NaN or Inf
+19:14 WARNING : Failed to create dynesty run plot at checkpoint
+19:28 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:29 WARNING : Axis limits cannot be NaN or Inf
+19:29 WARNING : Failed to create dynesty run plot at checkpoint
+19:39 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:39 WARNING : Axis limits cannot be NaN or Inf
+19:39 WARNING : Failed to create dynesty run plot at checkpoint
+19:49 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:49 WARNING : Axis limits cannot be NaN or Inf
+19:49 WARNING : Failed to create dynesty run plot at checkpoint
+19:59 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:00 WARNING : Axis limits cannot be NaN or Inf
+20:00 WARNING : Failed to create dynesty run plot at checkpoint
+20:10 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:10 WARNING : Axis limits cannot be NaN or Inf
+20:10 WARNING : Failed to create dynesty run plot at checkpoint
+20:25 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:25 WARNING : Axis limits cannot be NaN or Inf
+20:25 WARNING : Failed to create dynesty run plot at checkpoint
+20:36 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:36 WARNING : Axis limits cannot be NaN or Inf
+20:36 WARNING : Failed to create dynesty run plot at checkpoint
+20:52 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:52 WARNING : Axis limits cannot be NaN or Inf
+20:52 WARNING : Failed to create dynesty run plot at checkpoint
+21:08 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:08 WARNING : Axis limits cannot be NaN or Inf
+21:08 WARNING : Failed to create dynesty run plot at checkpoint
+21:19 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:19 WARNING : Axis limits cannot be NaN or Inf
+21:19 WARNING : Failed to create dynesty run plot at checkpoint
+21:30 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:30 WARNING : Axis limits cannot be NaN or Inf
+21:30 WARNING : Failed to create dynesty run plot at checkpoint
+21:42 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:43 WARNING : Axis limits cannot be NaN or Inf
+21:43 WARNING : Failed to create dynesty run plot at checkpoint
+21:54 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:54 WARNING : Axis limits cannot be NaN or Inf
+21:54 WARNING : Failed to create dynesty run plot at checkpoint
+22:07 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:07 WARNING : Axis limits cannot be NaN or Inf
+22:07 WARNING : Failed to create dynesty run plot at checkpoint
+22:19 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:19 WARNING : Axis limits cannot be NaN or Inf
+22:19 WARNING : Failed to create dynesty run plot at checkpoint
+22:32 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:33 WARNING : Axis limits cannot be NaN or Inf
+22:33 WARNING : Failed to create dynesty run plot at checkpoint
+22:46 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:46 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+22:46 WARNING : Failed to create dynesty state plot at checkpoint
+22:46 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+22:46 WARNING : Failed to create dynesty unit state plot at checkpoint
+22:46 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+22:46 WARNING : Failed to create dynesty run plot at checkpoint
+23:00 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:00 WARNING : Axis limits cannot be NaN or Inf
+23:00 WARNING : Failed to create dynesty run plot at checkpoint
+23:15 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:15 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+23:15 WARNING : Failed to create dynesty state plot at checkpoint
+23:15 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+23:15 WARNING : Failed to create dynesty unit state plot at checkpoint
+23:15 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+23:15 WARNING : Failed to create dynesty run plot at checkpoint
+23:28 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:28 WARNING : Axis limits cannot be NaN or Inf
+23:28 WARNING : Failed to create dynesty run plot at checkpoint
+23:43 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:43 WARNING : Axis limits cannot be NaN or Inf
+23:43 WARNING : Failed to create dynesty run plot at checkpoint
+23:59 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:59 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+23:59 WARNING : Failed to create dynesty state plot at checkpoint
+23:59 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+23:59 WARNING : Failed to create dynesty unit state plot at checkpoint
+23:59 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+23:59 WARNING : Failed to create dynesty run plot at checkpoint
+00:14 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:14 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+00:14 WARNING : Failed to create dynesty state plot at checkpoint
+00:14 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+00:14 WARNING : Failed to create dynesty unit state plot at checkpoint
+00:14 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+00:14 WARNING : Failed to create dynesty run plot at checkpoint
+00:30 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:30 WARNING : Axis limits cannot be NaN or Inf
+00:30 WARNING : Failed to create dynesty run plot at checkpoint
+00:46 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:46 WARNING : Axis limits cannot be NaN or Inf
+00:46 WARNING : Failed to create dynesty run plot at checkpoint
+01:03 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:03 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+01:03 WARNING : Failed to create dynesty state plot at checkpoint
+01:03 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+01:03 WARNING : Failed to create dynesty unit state plot at checkpoint
+01:03 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+01:03 WARNING : Failed to create dynesty run plot at checkpoint
+01:19 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:19 WARNING : Axis limits cannot be NaN or Inf
+01:19 WARNING : Failed to create dynesty run plot at checkpoint
+01:35 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:35 WARNING : Axis limits cannot be NaN or Inf
+01:35 WARNING : Failed to create dynesty run plot at checkpoint
+01:46 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:46 WARNING : Axis limits cannot be NaN or Inf
+01:46 WARNING : Failed to create dynesty run plot at checkpoint
+02:05 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+02:05 WARNING : Axis limits cannot be NaN or Inf
+02:05 WARNING : Failed to create dynesty run plot at checkpoint
+02:21 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+02:21 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+02:21 WARNING : Failed to create dynesty state plot at checkpoint
+02:21 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+02:21 WARNING : Failed to create dynesty unit state plot at checkpoint
+02:21 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+02:21 WARNING : Failed to create dynesty run plot at checkpoint
+02:40 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+02:41 WARNING : Axis limits cannot be NaN or Inf
+02:41 WARNING : Failed to create dynesty run plot at checkpoint
+03:00 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+03:00 WARNING : Axis limits cannot be NaN or Inf
+03:00 WARNING : Failed to create dynesty run plot at checkpoint
+03:10 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+03:11 WARNING : Axis limits cannot be NaN or Inf
+03:11 WARNING : Failed to create dynesty run plot at checkpoint
+03:29 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+03:29 WARNING : Axis limits cannot be NaN or Inf
+03:29 WARNING : Failed to create dynesty run plot at checkpoint
+03:48 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+03:49 WARNING : Axis limits cannot be NaN or Inf
+03:49 WARNING : Failed to create dynesty run plot at checkpoint
+04:04 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+04:04 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+04:04 WARNING : Failed to create dynesty state plot at checkpoint
+04:04 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+04:04 WARNING : Failed to create dynesty unit state plot at checkpoint
+04:04 WARNING : The data appears to lie in a lower-dimensional subspace of the space in which it is expressed. This has resulted in a singular data covariance matrix, which cannot be treated using the algorithms implemented in `gaussian_kde`. Consider performing principle component analysis / dimensionality reduction and using `gaussian_kde` with the transformed data.
+04:04 WARNING : Failed to create dynesty run plot at checkpoint
+04:15 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+04:15 WARNING : Axis limits cannot be NaN or Inf
+04:15 WARNING : Failed to create dynesty run plot at checkpoint
+04:26 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+04:26 WARNING : Axis limits cannot be NaN or Inf
+04:26 WARNING : Failed to create dynesty run plot at checkpoint
+04:46 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+04:46 WARNING : Axis limits cannot be NaN or Inf
+04:46 WARNING : Failed to create dynesty run plot at checkpoint
+04:59 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+04:59 WARNING : Axis limits cannot be NaN or Inf
+04:59 WARNING : Failed to create dynesty run plot at checkpoint
+05:16 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+05:17 WARNING : Axis limits cannot be NaN or Inf
+05:17 WARNING : Failed to create dynesty run plot at checkpoint
+05:34 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+05:34 WARNING : Axis limits cannot be NaN or Inf
+05:34 WARNING : Failed to create dynesty run plot at checkpoint
+05:45 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+05:45 WARNING : Axis limits cannot be NaN or Inf
+05:45 WARNING : Failed to create dynesty run plot at checkpoint
+06:05 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+06:06 WARNING : Axis limits cannot be NaN or Inf
+06:06 WARNING : Failed to create dynesty run plot at checkpoint
+06:25 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+06:25 WARNING : Axis limits cannot be NaN or Inf
+06:25 WARNING : Failed to create dynesty run plot at checkpoint
+06:36 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+06:37 WARNING : Axis limits cannot be NaN or Inf
+06:37 WARNING : Failed to create dynesty run plot at checkpoint
+06:47 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+06:48 WARNING : Axis limits cannot be NaN or Inf
+06:48 WARNING : Failed to create dynesty run plot at checkpoint
+07:05 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+07:05 WARNING : Axis limits cannot be NaN or Inf
+07:05 WARNING : Failed to create dynesty run plot at checkpoint
+07:16 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+07:17 WARNING : Axis limits cannot be NaN or Inf
+07:17 WARNING : Failed to create dynesty run plot at checkpoint
+07:28 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+07:29 WARNING : Axis limits cannot be NaN or Inf
+07:29 WARNING : Failed to create dynesty run plot at checkpoint
+07:45 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+07:45 WARNING : Axis limits cannot be NaN or Inf
+07:45 WARNING : Failed to create dynesty run plot at checkpoint
+07:57 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+07:57 WARNING : Axis limits cannot be NaN or Inf
+07:57 WARNING : Failed to create dynesty run plot at checkpoint
+08:17 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+08:18 WARNING : Axis limits cannot be NaN or Inf
+08:18 WARNING : Failed to create dynesty run plot at checkpoint
+08:40 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+08:41 WARNING : Axis limits cannot be NaN or Inf
+08:41 WARNING : Failed to create dynesty run plot at checkpoint
+08:52 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+08:53 WARNING : Axis limits cannot be NaN or Inf
+08:53 WARNING : Failed to create dynesty run plot at checkpoint
+09:12 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+09:12 WARNING : Axis limits cannot be NaN or Inf
+09:12 WARNING : Failed to create dynesty run plot at checkpoint
+09:25 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+09:25 WARNING : Axis limits cannot be NaN or Inf
+09:25 WARNING : Failed to create dynesty run plot at checkpoint
+09:44 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+09:44 WARNING : Axis limits cannot be NaN or Inf
+09:44 WARNING : Failed to create dynesty run plot at checkpoint
+09:58 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+09:58 WARNING : Axis limits cannot be NaN or Inf
+09:58 WARNING : Failed to create dynesty run plot at checkpoint
+10:18 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+10:19 WARNING : Axis limits cannot be NaN or Inf
+10:19 WARNING : Failed to create dynesty run plot at checkpoint
+10:30 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+10:31 WARNING : Axis limits cannot be NaN or Inf
+10:31 WARNING : Failed to create dynesty run plot at checkpoint
+10:52 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+10:52 WARNING : Axis limits cannot be NaN or Inf
+10:52 WARNING : Failed to create dynesty run plot at checkpoint
+11:13 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+11:14 WARNING : Axis limits cannot be NaN or Inf
+11:14 WARNING : Failed to create dynesty run plot at checkpoint
+11:35 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+11:35 WARNING : Axis limits cannot be NaN or Inf
+11:35 WARNING : Failed to create dynesty run plot at checkpoint
+11:47 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+11:47 WARNING : Axis limits cannot be NaN or Inf
+11:47 WARNING : Failed to create dynesty run plot at checkpoint
+12:00 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+12:01 WARNING : Axis limits cannot be NaN or Inf
+12:01 WARNING : Failed to create dynesty run plot at checkpoint
+12:21 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+12:21 WARNING : Axis limits cannot be NaN or Inf
+12:21 WARNING : Failed to create dynesty run plot at checkpoint
+12:41 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+12:41 WARNING : Axis limits cannot be NaN or Inf
+12:41 WARNING : Failed to create dynesty run plot at checkpoint
+12:55 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+12:55 WARNING : Axis limits cannot be NaN or Inf
+12:55 WARNING : Failed to create dynesty run plot at checkpoint
+13:05 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+13:06 WARNING : Axis limits cannot be NaN or Inf
+13:06 WARNING : Failed to create dynesty run plot at checkpoint
+13:20 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+13:20 WARNING : Axis limits cannot be NaN or Inf
+13:20 WARNING : Failed to create dynesty run plot at checkpoint
+13:34 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+13:34 WARNING : Axis limits cannot be NaN or Inf
+13:34 WARNING : Failed to create dynesty run plot at checkpoint
+13:48 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+13:48 WARNING : Axis limits cannot be NaN or Inf
+13:48 WARNING : Failed to create dynesty run plot at checkpoint
+14:07 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+14:08 WARNING : Axis limits cannot be NaN or Inf
+14:08 WARNING : Failed to create dynesty run plot at checkpoint
+14:22 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+14:22 WARNING : Axis limits cannot be NaN or Inf
+14:22 WARNING : Failed to create dynesty run plot at checkpoint
+14:36 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+14:36 WARNING : Axis limits cannot be NaN or Inf
+14:36 WARNING : Failed to create dynesty run plot at checkpoint
+14:50 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+14:50 WARNING : Axis limits cannot be NaN or Inf
+14:50 WARNING : Failed to create dynesty run plot at checkpoint
+15:03 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+15:03 WARNING : Axis limits cannot be NaN or Inf
+15:03 WARNING : Failed to create dynesty run plot at checkpoint
+15:17 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+15:18 WARNING : Axis limits cannot be NaN or Inf
+15:18 WARNING : Failed to create dynesty run plot at checkpoint
+15:31 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+15:31 WARNING : Axis limits cannot be NaN or Inf
+15:31 WARNING : Failed to create dynesty run plot at checkpoint
+15:45 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+15:45 WARNING : Axis limits cannot be NaN or Inf
+15:45 WARNING : Failed to create dynesty run plot at checkpoint
+15:57 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+15:58 WARNING : Axis limits cannot be NaN or Inf
+15:58 WARNING : Failed to create dynesty run plot at checkpoint
+16:10 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+16:10 WARNING : Axis limits cannot be NaN or Inf
+16:10 WARNING : Failed to create dynesty run plot at checkpoint
+16:23 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+16:24 WARNING : Axis limits cannot be NaN or Inf
+16:24 WARNING : Failed to create dynesty run plot at checkpoint
+16:37 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+16:38 WARNING : Axis limits cannot be NaN or Inf
+16:38 WARNING : Failed to create dynesty run plot at checkpoint
+16:53 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+16:54 WARNING : Axis limits cannot be NaN or Inf
+16:54 WARNING : Failed to create dynesty run plot at checkpoint
+17:06 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+17:06 WARNING : Axis limits cannot be NaN or Inf
+17:06 WARNING : Failed to create dynesty run plot at checkpoint
+17:18 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+17:18 WARNING : Axis limits cannot be NaN or Inf
+17:18 WARNING : Failed to create dynesty run plot at checkpoint
+17:35 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+17:35 WARNING : Axis limits cannot be NaN or Inf
+17:35 WARNING : Failed to create dynesty run plot at checkpoint
+17:48 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+17:48 WARNING : Axis limits cannot be NaN or Inf
+17:48 WARNING : Failed to create dynesty run plot at checkpoint
+18:03 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:03 WARNING : Axis limits cannot be NaN or Inf
+18:03 WARNING : Failed to create dynesty run plot at checkpoint
+18:17 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:18 WARNING : Axis limits cannot be NaN or Inf
+18:18 WARNING : Failed to create dynesty run plot at checkpoint
+18:29 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:30 WARNING : Axis limits cannot be NaN or Inf
+18:30 WARNING : Failed to create dynesty run plot at checkpoint
+18:44 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+18:45 WARNING : Axis limits cannot be NaN or Inf
+18:45 WARNING : Failed to create dynesty run plot at checkpoint
+18:59 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:00 WARNING : Axis limits cannot be NaN or Inf
+19:00 WARNING : Failed to create dynesty run plot at checkpoint
+19:13 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:13 WARNING : Axis limits cannot be NaN or Inf
+19:13 WARNING : Failed to create dynesty run plot at checkpoint
+19:31 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:31 WARNING : Axis limits cannot be NaN or Inf
+19:31 WARNING : Failed to create dynesty run plot at checkpoint
+19:48 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+19:48 WARNING : Axis limits cannot be NaN or Inf
+19:48 WARNING : Failed to create dynesty run plot at checkpoint
+20:06 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:06 WARNING : Axis limits cannot be NaN or Inf
+20:06 WARNING : Failed to create dynesty run plot at checkpoint
+20:19 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:20 WARNING : Axis limits cannot be NaN or Inf
+20:20 WARNING : Failed to create dynesty run plot at checkpoint
+20:35 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:35 WARNING : Axis limits cannot be NaN or Inf
+20:35 WARNING : Failed to create dynesty run plot at checkpoint
+20:52 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+20:52 WARNING : Axis limits cannot be NaN or Inf
+20:52 WARNING : Failed to create dynesty run plot at checkpoint
+21:10 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:10 WARNING : Axis limits cannot be NaN or Inf
+21:10 WARNING : Failed to create dynesty run plot at checkpoint
+21:27 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:28 WARNING : Axis limits cannot be NaN or Inf
+21:28 WARNING : Failed to create dynesty run plot at checkpoint
+21:44 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+21:45 WARNING : Axis limits cannot be NaN or Inf
+21:45 WARNING : Failed to create dynesty run plot at checkpoint
+22:02 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:03 WARNING : Axis limits cannot be NaN or Inf
+22:03 WARNING : Failed to create dynesty run plot at checkpoint
+22:19 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:19 WARNING : Axis limits cannot be NaN or Inf
+22:19 WARNING : Failed to create dynesty run plot at checkpoint
+22:38 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:38 WARNING : Axis limits cannot be NaN or Inf
+22:38 WARNING : Failed to create dynesty run plot at checkpoint
+22:54 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+22:55 WARNING : Axis limits cannot be NaN or Inf
+22:55 WARNING : Failed to create dynesty run plot at checkpoint
+23:14 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:15 WARNING : Axis limits cannot be NaN or Inf
+23:15 WARNING : Failed to create dynesty run plot at checkpoint
+23:32 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:33 WARNING : Axis limits cannot be NaN or Inf
+23:33 WARNING : Failed to create dynesty run plot at checkpoint
+23:53 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+23:54 WARNING : Axis limits cannot be NaN or Inf
+23:54 WARNING : Failed to create dynesty run plot at checkpoint
+00:09 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:09 WARNING : Axis limits cannot be NaN or Inf
+00:09 WARNING : Failed to create dynesty run plot at checkpoint
+00:23 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:24 WARNING : Axis limits cannot be NaN or Inf
+00:24 WARNING : Failed to create dynesty run plot at checkpoint
+00:36 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:36 WARNING : Axis limits cannot be NaN or Inf
+00:36 WARNING : Failed to create dynesty run plot at checkpoint
+00:50 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+00:51 WARNING : Axis limits cannot be NaN or Inf
+00:51 WARNING : Failed to create dynesty run plot at checkpoint
+01:09 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:10 WARNING : Axis limits cannot be NaN or Inf
+01:10 WARNING : Failed to create dynesty run plot at checkpoint
+01:28 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:28 WARNING : Axis limits cannot be NaN or Inf
+01:28 WARNING : Failed to create dynesty run plot at checkpoint
+01:42 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:43 WARNING : Axis limits cannot be NaN or Inf
+01:43 WARNING : Failed to create dynesty run plot at checkpoint
+01:57 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+01:57 WARNING : Axis limits cannot be NaN or Inf
+01:57 WARNING : Failed to create dynesty run plot at checkpoint
+02:15 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+02:16 WARNING : Axis limits cannot be NaN or Inf
+02:16 WARNING : Failed to create dynesty run plot at checkpoint
+02:33 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+02:33 WARNING : Axis limits cannot be NaN or Inf
+02:33 WARNING : Failed to create dynesty run plot at checkpoint
+02:51 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+02:52 WARNING : Axis limits cannot be NaN or Inf
+02:52 WARNING : Failed to create dynesty run plot at checkpoint
+03:10 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+03:10 WARNING : Axis limits cannot be NaN or Inf
+03:10 WARNING : Failed to create dynesty run plot at checkpoint
+03:12 INFO    : Written checkpoint file results_equalmass/equalmass_resume.pickle
+03:12 WARNING : Axis limits cannot be NaN or Inf
+03:12 WARNING : Failed to create dynesty run plot at checkpoint
+03:12 INFO    : Starting to close worker pool.
+03:12 INFO    : Finished closing worker pool.
+03:13 INFO    : Rejection sampling nested samples to obtain 6078 posterior samples
+03:13 INFO    : Sampling time: 1 day, 9:38:05.175672
+03:13 INFO    : Summary of results:
+nsamples: 6078
+ln_noise_evidence: -52577.890
+ln_evidence: -30568.607 +/-  0.243
+ln_bayes_factor: 22009.283 +/-  0.243
+
